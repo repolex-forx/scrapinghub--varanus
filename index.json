@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "varanus",
+  "versions": [
+    {
+      "commit": "383ef738515d62dae6aff53c7f3036ac3abde83e",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:14:05.172487+00:00"
+    }
+  ]
+}
